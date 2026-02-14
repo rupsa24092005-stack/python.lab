@@ -74,3 +74,5 @@ while True :
         print("Granted Access !")
         break
 #TASK6 - MARIO BROTHER WODEN FOREST LOST GAME FUNCTION 
+
+
