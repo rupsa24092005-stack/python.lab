@@ -50,3 +50,4 @@ c1.display_course_info()
 print("Total Courses: ", course.total_courses)
 
 
+``  
